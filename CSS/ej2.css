@@ -1,6 +1,10 @@
 
 h1{
     font-size: 4.5em;
+    border: 10px solid;
+    background-color: aqua;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 table{
@@ -10,6 +14,7 @@ table{
 
 .w{
     background-color: white;
+    text-align: center;
     color: white;
     height: 75px;
     width: 75px;
@@ -17,6 +22,7 @@ table{
 
 .b{
     background-color: black;
+    text-align: center;
     color: black;
     height: 75px;
     width: 75px;
@@ -39,5 +45,15 @@ p{
 }
 
 .w:hover p{
+    visibility: visible;
+}
+
+footer>table{
+    border: 1px solid white;
+    background-color: aqua;
+}
+
+.help{
+    padding: 1em;
     visibility: visible;
 }
