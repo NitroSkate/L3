@@ -1,0 +1,43 @@
+
+h1{
+    font-size: 4.5em;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.w{
+    background-color: white;
+    color: white;
+    height: 75px;
+    width: 75px;
+}
+
+.b{
+    background-color: black;
+    color: black;
+    height: 75px;
+    width: 75px;
+}
+
+p{
+    visibility: hidden;
+}
+
+.b:hover{
+    background-color:rgba(255, 0, 0, 0.5);
+}
+
+.w:hover{
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+.b:hover p{
+    visibility: visible;
+}
+
+.w:hover p{
+    visibility: visible;
+}
