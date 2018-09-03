@@ -1,84 +1,247 @@
 body{
     border: solid 1px black;
+    padding-left: 1em;    
 }
+
+h1{
+    font-weight: bolder;
+}
+
+h2{
+    font-weight: bolder;
+}
+
+
 .1{
     display: inline-block;
+    margin-left: 1em;
+    padding-left: 1em;
 }
 
 .2{
     display: inline-block;
+    margin-left: 1em;
 }
 
 .3{
     display: inline-block;
+    margin-left: 1em;
 }
 
 .b1{
-
+    background-color: #f4f3f2;
+    border: none;
+    padding: 0.5em 1em 0.5em 1em;
+    color: gray;
+    font-weight: 400;
+    font-size: 1em;
+    border-radius: 4px;
 }
 
 .b2{
-
+    background-color: #f4f3f2;
+    border: none;
+    padding: 0.5em 1em 0.5em 1em;
+    color: gray;
+    font-weight: 400;
+    font-size: 0.75em;
+    margin-left: 1em;
+    border-radius: 4px;
 }
 
 .b3{
-
+    background-color: #f4f3f2;
+    border: none;
+    padding: 0.5em 1em 0.5em 1em;
+    color: gray;
+    font-weight: 400;
+    font-size: 1.5em;
+    margin-left: 0.75em;
+    border-radius: 4px;
 }
 
 .b4{
-
+    background-color: #57d68d;
+    border: none;
+    padding: 0.5em 1em 0.5em 1em;
+    color: white;
+    font-weight: 400;
+    font-size: 1em;
+    border-radius: 4px;
 }
 
 .b5{
-
+    background-color: #5cace2;
+    border: none;
+    padding: 0.5em 1em 0.5em 1em;
+    color: white;
+    font-weight: 400;
+    font-size: 1em;
+    margin-left: 1em;
+    border-radius: 4px;
 }
 
 .b6{
-
+    background-color: #ae7ac4;
+    border: none;
+    padding: 0.5em 1em 0.5em 1em;
+    color: white;
+    font-weight: 400;
+    font-size: 1em;
+    margin-left: 1em;
+    border-radius: 4px;
 }
 
 .b7{
-
+    background-color: #5c6d7e;
+    border: none;
+    padding: 0.5em 1em 0.5em 1em;
+    color: white;
+    font-weight: 400;
+    font-size: 1em;
+    margin-left: 1em;
+    border-radius: 4px;
 }
 
 .b8{
-
+    background-color: #ea974e;
+    border: none;
+    padding: 0.5em 1em 0.5em 1em;
+    color: white;
+    font-weight: 400;
+    font-size: 1em;
+    margin-left: 1em;
+    border-radius: 4px;
 }
 
 .b9{
-
+    background-color: #eb6f62;
+    border: none;
+    padding: 0.5em 1em 0.5em 1em;
+    color: white;
+    font-weight: 400;
+    font-size: 1em;
+    margin-left: 1em;
+    border-radius: 4px;
 }
 
 .b10{
-
+    background-color: white;
+    border: 1px solid #757575;
+    padding: 0.5em 1em 0.5em 1em;
+    color: #757575;
+    font-weight: 400;
+    font-size: 1em;
+    border-radius: 4px;
 }
 
 .b11{
-
+    background-color: white;
+    border: 1px solid #87e2ae;
+    padding: 0.5em 1em 0.5em 1em;
+    color: #87e2ae;
+    font-weight: 400;
+    font-size: 1em;
+    margin-left: 1em;
+    border-radius: 4px;
 }
 
 .b12{
-
+    background-color: white;
+    border: 1px solid #7cbce8;
+    padding: 0.5em 1em 0.5em 1em;
+    color: #7cbce8;
+    font-weight: 400;
+    font-size: 1em;
+    margin-left: 1em;
+    border-radius: 4px;
 }
 
 .b13{
-
+    background-color: white;
+    border: 1px solid #cfb0dc;
+    padding: 0.5em 1em 0.5em 1em;
+    color: #cfb0dc;
+    font-weight: 400;
+    font-size: 1em;
+    margin-left: 1em;
+    border-radius: 4px;
 }
 
 .b14{
-
+    background-color: white;
+    border: 1px solid #757575;
+    padding: 0.5em 1em 0.5em 1em;
+    color: #757575;
+    font-weight: 400;
+    font-size: 1em;
+    margin-left: 1em;
+    border-radius: 4px;
 }
 
 .b15{
-
+    background-color: white;
+    border: 1px solid #f0b683;
+    padding: 0.5em 1em 0.5em 1em;
+    color: #f0b683;
+    font-weight: 400;
+    font-size: 1em;
+    margin-left: 1em;
+    border-radius: 4px;
 }
 
 .b16{
-    
+    background-color: white;
+    border: 1px solid #ef8d83;
+    padding: 0.5em 1em 0.5em 1em;
+    color: #ef8d83;
+    font-weight: 400;
+    font-size: 1em;
+    margin-left: 1em;
+    border-radius: 4px;
 }
 
 .b17{
-    margin-bottom: 2em;
+    background-color: #5c6d7e;
+    border: none;
+    padding: 0.5em 1em 0.5em 1em;
+    color: white;
+    font-weight: 400;
+    font-size: 1.5em;
+    border-radius: 4px;
 }
 
+.b18{
+    background-color: white;
+    border: 1px solid #a1cfee;
+    padding: 0.5em 1em 0.5em 1em;
+    color: #a1cfee;
+    font-weight: 400;
+    font-size: 1em;
+    margin-left: 1em;
+    border-radius: 4px;
+}
+
+.b19{
+    background-color: #57d68d;
+    border: none;
+    padding: 0.5em 1em 0.5em 1em;
+    color: white;
+    font-weight: 400;
+    font-size: 0.75em;
+    margin-left: 1em;
+    border-radius: 4px;
+}
+
+.b20{
+    background-color: white;
+    border: 2px solid #eb6f62;
+    padding: 0.5em 1em 0.5em 1em;
+    color: #eb6f62;
+    font-weight: 400;
+    font-size: 1.5em;
+    margin-left: 1em;
+    border-radius: 4px;
+    margin-bottom: 1em;
+}
 
